@@ -1,3 +1,7 @@
+/**
+ * Author: Kaanon MacFarlane
+**/
+
 //Query Parameters
 _GET = (function(){
   var query = document.location.search.substring(1), //Everything but the ?
