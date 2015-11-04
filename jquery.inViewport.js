@@ -1,3 +1,7 @@
+/**
+ * Find out whether an element is in the viewport
+ * @author Kaanon MacFarlane
+ */
 (function ($) {
     var $window = $(window),
         windowHeight = $window.height();
